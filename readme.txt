@@ -1,2 +1,2 @@
-Hello Git\!
-New feature added\!
+Hello Git
+New feature added
