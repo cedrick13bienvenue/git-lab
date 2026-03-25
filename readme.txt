@@ -1,2 +1,1 @@
-Hello Git
-New feature added
+Git Lab - Practice Repository
