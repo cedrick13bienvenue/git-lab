@@ -25,3 +25,5 @@ Branch Naming Conventions
 - feature/<short-description>
 - fix/<short-description>
 - chore/<short-description>
+
+New line Added
