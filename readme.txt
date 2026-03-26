@@ -1,5 +1,4 @@
 Git Lab - Practice Repository
-==============================
 
 This repository is used to practice core Git workflows, including:
 - Branching and merging
